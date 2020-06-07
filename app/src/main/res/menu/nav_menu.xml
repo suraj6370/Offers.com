@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/g1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/item1"
+            android:icon="@drawable/mobile"
+            android:title="@string/Electronics" />
+        <item
+            android:id="@+id/item2"
+            android:icon="@drawable/tv"
+            android:title="@string/Tv" />
+        <item
+            android:id="@+id/item3"
+            android:icon="@drawable/furniture"
+            android:title="@string/Home" />
+        <item
+            android:id="@+id/item15"
+            android:icon="@drawable/fashion"
+            android:title="@string/fashion"/>
+        <item
+            android:id="@+id/item4"
+            android:icon="@drawable/perfume"
+            android:title="@string/Beauty" />
+        <item
+            android:id="@+id/item5"
+            android:icon="@drawable/payment"
+            android:title="@string/recharge" />
+        <item
+            android:id="@+id/item6"
+            android:icon="@drawable/flight"
+            android:title="@string/FlightHotelAndBus" />
+    </group>
+
+    <group
+        android:id="@+id/g3"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/item8"
+            android:icon="@drawable/offer"
+            android:title="@string/offers"/>
+        <item
+            android:id="@+id/item9"
+            android:icon="@drawable/sell"
+            android:title="@string/sell"/>
+    </group>
+    <group
+        android:id="@+id/g4"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/item10"
+            android:icon="@drawable/shoppingcart"
+            android:title="@string/MyCart"/>
+        <item
+            android:id="@+id/item11"
+            android:icon="@drawable/myaccount"
+            android:title="@string/Myacount"
+            />
+        <item
+            android:id="@+id/item12"
+            android:icon="@drawable/noti"
+            android:title="@string/MyNoti"
+            />
+    </group>
+    <group
+        android:id="@+id/g5"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/item13"
+            android:icon="@drawable/notip"
+            android:title="@string/notificationP"/>
+        <item
+            android:id="@+id/item14"
+            android:icon="@drawable/help"
+            android:title="@string/help"
+            />
+    </group>
+</menu>

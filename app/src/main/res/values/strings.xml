@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">drawerlayout</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="Offers">Offers.com</string>
+    <string name="home">Home</string>
+    <string name="Electronics">Electronics</string>
+    <string name="Tv"><![CDATA[TVs & Appliances]]></string>
+    <string name="Home">Home and Furniture</string>
+    <string name="Beauty">Beauty and Personal care</string>
+    <string name="recharge">Bills and Recharge</string>
+    <string name="FlightHotelAndBus"><![CDATA[Flights, Hotels & Bus]]></string>
+    <string name="ChooseL">Choose Language</string>
+    <string name="offers">Offers</string>
+    <string name="sell">Sell on Offers.com</string>
+    <string name="MyCart">My Cart</string>
+    <string name="Myacount">My Account</string>
+    <string name="MyNoti">My Notifications</string>
+    <string name="notificationP">Notification Preferences</string>
+    <string name="help">Help Centre</string>
+    <string name="fashion">Fashion</string>
+    <string name="appsite">Offers.com</string>
+    <string name="shop">shop</string>
+    <string name="cois">coins</string>
+    <string name="videos">videos</string>
+    <string name="ideas">ideas</string>
+    <string name="feedback">feedback</string>
+    <string name="Image">Image</string>
+    <string name="hello">hello</string>
+
+</resources>
